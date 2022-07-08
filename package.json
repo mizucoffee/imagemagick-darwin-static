@@ -1,7 +1,7 @@
 {
-  "name": "imagemagick-darwin-static",
-  "version": "1.0.11",
-  "description": "static library of imagemagic for darwin x64",
+  "name": "@mizucoffee/imagemagick-darwin-static",
+  "version": "1.0.12-mizucoffee",
+  "description": "static library of imagemagic for darwin x64 (and arm64)",
   "keywords": [
     "static",
     "image",
@@ -22,7 +22,7 @@
   "email": "j.pichler@webpixels.at",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeherold/imagemagick-darwin-static.git"
+    "url": "git+https://github.com/mizucoffee/imagemagick-darwin-static.git"
   },
   "bugs": {
     "url": "https://github.com/joeherold/imagemagick-darwin-static/issues"
