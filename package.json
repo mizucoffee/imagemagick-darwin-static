@@ -1,6 +1,6 @@
 {
   "name": "@mizucoffee/imagemagick-darwin-static",
-  "version": "1.0.12-mizucoffee",
+  "version": "1.0.13-mizucoffee",
   "description": "static library of imagemagic for darwin x64 (and arm64)",
   "keywords": [
     "static",
@@ -29,8 +29,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@mizucoffee/imagemagick-darwin-static": "^1.0.12-mizucoffee",
     "fs-extra": "^3.0.0",
     "node-tar.gz": "^1.0.0"
-  },
-  "devDependencies": {}
+  }
 }
